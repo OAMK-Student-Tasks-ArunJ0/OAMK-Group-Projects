@@ -3,7 +3,13 @@
 
 
 
+https://github.com/OAMK-Student-Tasks-ArunJ0/CalculatorApp
+Mobile Calculator App using dart. The calculator is similar
+to the basic calculator app available for all Phones.
 
+https://github.com/OAMK-Student-Tasks-ArunJ0/AdvancedSoftwareDev
+Tasks in a Python course in which different types of tasks were
+done using different techniques such as threading.
 
 # OAMK-Group-Projects
 
