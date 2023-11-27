@@ -53,4 +53,5 @@ was done using Arduino.
 # Current Project
 
 Currently i am working on a group project using Unity to make
-a Mobile game that is quite similar to the "[Earn to Die]:(https://store.steampowered.com/app/431590/Earn_to_Die_2/)" game.
+a Mobile game that has different functions such as gravity, 
+projectile shooting and general level design elements.
