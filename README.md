@@ -43,6 +43,8 @@ Banking app which makes a simple banking app which has authentication and login
 functions required by a banking app. It stores fictional currency and tracks the
 currency currently on each account.
 
+https://github.com/luris123/EarnToFly
+
 # Other project work
 
 Worked with others on a car sensor as my first project in OAMK.
