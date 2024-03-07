@@ -44,6 +44,8 @@ functions required by a banking app. It stores fictional currency and tracks the
 currency currently on each account.
 
 https://github.com/luris123/EarnToFly
+an arcade type game where you fly a plane, collect gold and fight enemies. Made
+using Unity.
 
 # Other project work
 
