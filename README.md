@@ -22,6 +22,7 @@ https://github.com/OAMK-Student-Tasks-ArunJ0/AdvancedSoftwareDev
 Tasks in a Python course in which different types of tasks were
 done using different techniques such as threading.
 
+
 # OAMK Group Projects
 
 Group Projects i were part of in making
@@ -45,19 +46,27 @@ currency currently on each account.
 
 https://github.com/luris123/EarnToFly
 an arcade type game where you fly a plane, collect gold and fight enemies. Made
-using Unity.
+using Unity. a Mobile game that has different functions such as gravity, 
+projectile shooting and general level design elements.
+
 
 # OAMK Company Projects
 
+
 Company Projects that were part of the studies at OAMK.
+
 
 Students go to companies to work on different projects to complete some project for the company in question.
 
+
 3GPP RAG ai project, i worked on this while working within a student project at MediaTek:
+
 https://github.com/3gpp-RAG-app
 
 This was another project i worked on while working on a student project at Mediatek:
+
 https://github.com/YinanLi1987/3GPP-ASSISTANT
+
 
 # Other project work
 
@@ -65,6 +74,7 @@ Worked with others on a car sensor as my first project in OAMK.
 The car sensor had its own sound emitter as well as led lights
 to show when the sensor was getting close to a wall. This project
 was done using Arduino.
+
 
 # Current Project
 
