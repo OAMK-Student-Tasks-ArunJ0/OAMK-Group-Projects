@@ -78,6 +78,3 @@ was done using Arduino.
 
 # Current Project
 
-Currently i am working on a group project using Unity to make
-a Mobile game that has different functions such as gravity, 
-projectile shooting and general level design elements.
