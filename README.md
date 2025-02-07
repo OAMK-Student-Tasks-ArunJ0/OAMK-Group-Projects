@@ -71,13 +71,18 @@ https://github.com/YinanLi1987/3GPP-ASSISTANT
 # Other project work
 
 Worked with others on a car sensor as my first project in OAMK.
+
 The car sensor had its own sound emitter as well as led lights
+
 to show when the sensor was getting close to a wall. This project
+
 was done using Arduino.
 
 
 # Current Project
 
 OAMK End project, Godot 2D Top Down Rpg game.
+
 Made using gdscript code language  similar to 
+
 python in syntax.
