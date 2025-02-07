@@ -78,3 +78,6 @@ was done using Arduino.
 
 # Current Project
 
+OAMK End project, Godot 2D Top Down Rpg game.
+Made using gdscript code language  similar to 
+python in syntax.
