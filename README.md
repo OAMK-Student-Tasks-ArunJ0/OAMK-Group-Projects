@@ -83,9 +83,7 @@ was done using Arduino.
 
 OAMK End project, Godot 2D Top Down Rpg game.
 
-Made using gdscript code language  similar to 
-
-python in syntax.
+Made using gdscript code language that is similar to python in syntax.
 
 https://github.com/OAMK-Student-Tasks-ArunJ0/OAMK_Godot_Project_ALL
 
